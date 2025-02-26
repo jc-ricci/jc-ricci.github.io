@@ -30,7 +30,11 @@ author:
   employer         : "USTC"
   uri              : # URL
   email            : "jc_ricci@mail.ustc.edu.cn" 
+  phone            : "(+86)15155372500"
+  QQ               : "(../images/qq.jpg)"
+  Wechat           : "(../images/wechat.jpg)"
 
+  
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
