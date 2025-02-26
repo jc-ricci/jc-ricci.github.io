@@ -23,7 +23,7 @@ repository               : "jc-ricci.github.io"
 author:
   # Biographic information
   avatar           : "headpic.png"
-  name             : "Your Sidebar Name"
+  name             : "Jiang Chong"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : "Hefei,Anhui"
@@ -74,7 +74,10 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
+  qq               : "2319780751"
+  phone            : "(+86)15155372500"
 
+  
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
